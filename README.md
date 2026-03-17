@@ -4,7 +4,7 @@ A real-time hand gesture recognition system for Naruto Jutsu hand seals, powered
 
 ## Project Structure 📁
 
-- `data/raw/`: Contains the training and testing datasets.
+- `data/raw/`: Contains the training and testing datasets.(link for the dataset mentioned below)
 - `models/`: Stores the trained PyTorch models (`naruto_model_gpu.pth`).
 - `scripts/`: Utility scripts for training.
 - `main.py`: The core application for real-time detection via webcam.
@@ -40,5 +40,5 @@ Bird, Boar, Dog, Dragon, Hare, Horse, Monkey, Ox, Ram, Rat, Snake, Tiger.
 ## GPU Support 🚀
 This version is optimized for NVIDIA GPUs using PyTorch. If a GPU is detected, it will automatically use CUDA for inference and training.
 
-#Dataset
+## Dataset
 https://www.kaggle.com/datasets/vikranthkanumuru/naruto-hand-sign-dataset
