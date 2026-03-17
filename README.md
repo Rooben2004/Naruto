@@ -39,3 +39,6 @@ Bird, Boar, Dog, Dragon, Hare, Horse, Monkey, Ox, Ram, Rat, Snake, Tiger.
 
 ## GPU Support 🚀
 This version is optimized for NVIDIA GPUs using PyTorch. If a GPU is detected, it will automatically use CUDA for inference and training.
+
+#Dataset
+https://www.kaggle.com/datasets/vikranthkanumuru/naruto-hand-sign-dataset
